@@ -1,5 +1,5 @@
-# zomato_data_analysis
-Zomato Order Data Analysis
+# Zomato Data Analysis
+Zomato Personal Order Data Analysis
 
 1.) Install FastAPI<br>
   ```
